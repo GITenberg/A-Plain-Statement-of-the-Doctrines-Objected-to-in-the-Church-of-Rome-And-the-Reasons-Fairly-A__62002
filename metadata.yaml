@@ -1,0 +1,26 @@
+_repo: A-Plain-Statement-of-the-Doctrines-Objected-to-in-the-Church-of-Rome-And-the-Reasons-Fairly-A__62002
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reilly, Joseph
+    gutenberg_agent_id: '51721'
+    url: http://www.gutenberg.org/2009/agents/51721
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Doctrines'
+- !lcsh 'Catholic Church -- Controversial literature'
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- Relations -- Methodist Church'
+- !lcsh 'Methodist Church -- Relations -- Catholic Church'
+- GITenberg
+title: "A Plain Statement of the Doctrines Objected to in the Church of Rome\r\nAnd\
+  \ the Reasons Fairly Assigned for Separating From Her Communion"
+url: http://www.gutenberg.org/ebooks/62002
